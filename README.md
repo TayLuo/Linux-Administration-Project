@@ -1,6 +1,5 @@
 # Linux-Administration-Project
 
-Linux Administration Repository
 Welcome to my Linux Administration repository! This collection showcases various projects that demonstrate my skills in managing Linux servers. Each project includes detailed documentation and step-by-step instructions to illustrate best practices in Linux administration.
 
 Objectives:
