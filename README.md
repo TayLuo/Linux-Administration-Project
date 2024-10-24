@@ -14,4 +14,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
   - [Hardening a Linux Server](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/README.md)
   - [Linux Logs Central Management ](https://github.com/TayLuo/Linux-Log-Management/blob/main/README.md)
  - [How to Partition a Disk in Linux](https://github.com/TayLuo/Partition-a-Disk-in-Linux/blob/main/README.md)
-  -[Configuring an NFS Server](https://github.com/TayLuo/NFS-Server-Configuration/blob/main/README.md) 
+  - [Configuring an NFS Server](https://github.com/TayLuo/NFS-Server-Configuration/blob/main/README.md) 
