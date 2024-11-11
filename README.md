@@ -15,4 +15,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
   - [Linux Logs Central Management ](https://github.com/TayLuo/Linux-Log-Management/blob/main/README.md)
  -  [How to Partition a Disk in Linux](https://github.com/TayLuo/Partition-a-Disk-in-Linux/blob/main/README.md)
   - [Configuring an NFS Server](https://github.com/TayLuo/NFS-Server-Configuration/blob/main/README.md) 
-  - [Comprehensive Nagios Monitoring Lab: Setup, Configuration, and Host Monitoring](https://github.com/TayLuo/Nagios-Deployment-Guide/blob/main/README.md)
+  -  [Comprehensive Nagios Monitoring Lab: Setup, Configuration, and Host Monitoring](https://github.com/TayLuo/Nagios-Deployment-Guide/blob/main/README.md)
