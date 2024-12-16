@@ -17,3 +17,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
   - [Configuring an NFS Server](https://github.com/TayLuo/NFS-Server-Configuration/blob/main/README.md) 
   -  [Comprehensive Nagios Monitoring Lab: Setup, Configuration, and Host Monitoring](https://github.com/TayLuo/Nagios-Deployment-Guide/blob/main/README.md)
  - [Creating LVM Disk Space](https://github.com/TayLuo/Creating-LVM-Disk-Space/blob/main/README.md)
+ - [Configure DNS on Linux]()
