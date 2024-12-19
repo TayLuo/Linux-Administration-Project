@@ -18,3 +18,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
   -  [Comprehensive Nagios Monitoring Lab: Setup, Configuration, and Host Monitoring](https://github.com/TayLuo/Nagios-Deployment-Guide/blob/main/README.md)
  - [Creating LVM Disk Space](https://github.com/TayLuo/Creating-LVM-Disk-Space/blob/main/README.md)
  - [Configure DNS on Linux](https://github.com/TayLuo/DNS_Configuration)
+  - [User managment script](https://github.com/TayLuo/user_setup.sh)
