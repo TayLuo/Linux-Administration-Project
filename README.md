@@ -21,3 +21,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
   - [User managment script](https://github.com/TayLuo/user_setup.sh)
   - [Encrypt files with GPG](https://github.com/TayLuo/encrypt.sh/blob/main/README.md)
   - [Load-Balancer](https://github.com/TayLuo/Load-Balancer/blob/main/README.md)
+  - [Shell-script-repos](https://github.com/TayLuo/Shell-Scripts-Repository/blob/main/README.md)
