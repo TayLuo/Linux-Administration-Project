@@ -20,3 +20,4 @@ Feel free to explore the projects, and I welcome any feedback or questions!
  - [Configure DNS on Linux](https://github.com/TayLuo/DNS_Configuration)
   - [User managment script](https://github.com/TayLuo/user_setup.sh)
   - [Encrypt files with GPG](https://github.com/TayLuo/encrypt.sh/blob/main/README.md)
+  - [Load-Balancer] (https://github.com/TayLuo/Load-Balancer/blob/main/README.md)
